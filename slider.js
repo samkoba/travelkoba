@@ -11,5 +11,4 @@
       slideIndex = 1;
     }
     slides[slideIndex - 1].style.display = "block";
-    setTimeout(showSlides, 5000); // Ubah angka ini (dalam milidetik) untuk mengatur kecepatan slide.
-  }
+    setTimeout(showSlides, 5000); 
